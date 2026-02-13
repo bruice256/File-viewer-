@@ -1,0 +1,8 @@
+{
+  "name": "OmniView File Explorer",
+  "description": "A powerful local file management and viewing application that allows you to store, organize, and preview virtually any file type using intelligent AI analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
